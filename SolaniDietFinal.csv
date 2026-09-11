@@ -1,0 +1,76 @@
+﻿Hours,BeetleCount,AreaConsumed,Lifestage,Fed,Plant
+1.8,5,27.756,Adult,1,American Nightshade
+28.91666667,6,737.904,Adult,1,American Nightshade
+2.283333333,6,66.436,Adult,1,American Nightshade
+5,6,148.433,Adult,1,American Nightshade
+2.15,5,2.55,L1,1,American Nightshade
+2.416666667,8,5.583,L1,1,American Nightshade
+2.6,8,8.563,L1,1,American Nightshade
+24,5,0,Adult,0,Brazilian nightshade
+24,5,0,Adult,0,Brazilian nightshade
+24,5,0,Adult,0,Brazilian nightshade
+72,5,14.4,L1Naive,1,Brazilian nightshade
+72,5,23.4,L1Naive,1,Brazilian nightshade
+72,5,18,L1Naive,1,Brazilian nightshade
+24,5,0,Adult,0,Cabbage
+24,5,0,Adult,0,Cabbage
+24,5,0,Adult,0,Cabbage
+4,5,0,L1,0,Cabbage
+4,5,0.397,L1,1,Cabbage
+4,5,0.5,L1,1,Cabbage
+24,3,4.273,L1Naive,1,Cabbage
+72,9,51.377,L1Naive,1,Cabbage
+48,4,19.135,L1Naive,1,Cabbage
+24,5,0,Adult,0,Gooseberry
+24,5,0,Adult,0,Gooseberry
+24,8,7.772,Adult,1,Gooseberry
+4,5,0,L1,0,Gooseberry
+4,5,0,L1,0,Gooseberry
+4,5,0.3,L1,1,Gooseberry
+72,4,1.123,L1Naive,1,Gooseberry
+72,4,1.522,L1Naive,1,Gooseberry
+72,4,1.572,L1Naive,1,Gooseberry
+72,4,0,L1Naive,0,Pepper
+72,4,0,L1Naive,0,Pepper
+24,5,0,Adult,0,Potato
+24,5,0,Adult,0,Potato
+24,5,0,Adult,0,Potato
+4,5,0,L1,0,Potato
+4,5,0,L1,0,Potato
+4,5,0,L1,0,Potato
+24,5,0,Adult,0,Tobacco
+24,5,0,Adult,0,Tobacco
+24,5,0,Adult,0,Tobacco
+4,5,0,L1,0,Tobacco
+4,5,0,L1,0,Tobacco
+4,5,0,L1,0,Tobacco
+24,5,0,Adult,0,Tomatillo
+24,5,0,Adult,0,Tomatillo
+24,5,0,Adult,0,Tomatillo
+4,5,0,L1,0,Tomatillo
+4,5,0,L1,0,Tomatillo
+4,5,0,L1,0,Tomatillo
+24,5,0,Adult,0,Tomato
+24,5,0,Adult,0,Tomato
+24,5,0,Adult,0,Tomato
+4,5,0,L1,0,Tomato
+4,5,0,L1,0,Tomato
+4,5,0,L1,0,Tomato
+72,3,0,L1Naive,0,Tomato
+72,3,0,L1Naive,0,Tomato
+72,3,0,L1Naive,0,Tomato
+24,5,0,Adult,0,Tree tobacco
+24,5,0,Adult,0,Tree tobacco
+24,5,0,Adult,0,Tree tobacco
+4,5,0,L1,0,Tree tobacco
+4,5,0,L1,0,Tree tobacco
+4,5,0,L1,0,Tree tobacco
+24,5,0,Adult,0,Eggplant
+24,5,0,Adult,0,Eggplant
+24,5,0,Adult,0,Eggplant
+4,5,0,L1,0,Eggplant
+4,5,0,L1,0,Eggplant
+4,5,0,L1,0,Eggplant
+72,3,1.536,L1Naive,1,Brazilian nightshade
+72,3,0,L1Naive,0,Brazilian nightshade
+72,3,0,L1Naive,0,Brazilian nightshade
